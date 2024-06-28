@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Contáctanos </title> 
+	
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+  </head>
+  
+<body>
+
+    <header>
+        <h1>Biblioteca Universidad Tecnológica de El Salvador</h1>
+    </header>
+
+    <nav>
+	   <a href="index.html">Bienvenidos</a> |  
+        <a href="Quienes somos.html">Quienes somos</a> |
+        <a href="Nuestros productos.html">Nuestros productos</a> |
+        <a href="Nuestros Servicios.html">Nuestros servicios</a> |
+        <a href="Contactanos.html">Contáctanos</a>
+    </nav>
+
+    <section>
+        <table class="content-table">
+            <tr>
+                <td>
+                    <img src="img/foto2.jpg" alt="Biblioteca">
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td colspan="4" style="background-color: #a9a9a9; text-align: center;">
+                                <b> Contáctanos <br> 
+                            </td>
+                        </tr>
+                        <tr>
+                          
+                            <td>
+                                Para cualquier tipo de consulta a nuestro equipo aserca de la biblioteca wed puede comunicarse en los siguientes correos <b> EquipoDeServicios@mail.utec </b><b>ServicioBiblotecario@mail.utec </b>
+                            </td>
+                           
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        Universidad Tecnológica de El Salvador - Todos los derechos reservados grupo 04
+    </footer>
+
+</body>
+
+</html>

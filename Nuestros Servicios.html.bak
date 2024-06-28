@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestros servicios</title> 
+	
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+  </head>
+  
+<body>
+
+    <header>
+        <h1>Biblioteca Universidad Tecnológica de El Salvador</h1>
+    </header>
+
+    <nav>
+	    <a href="index.html">Bienvenidos</a> |  
+        <a href="Quienes somos.html">Quienes somos</a> |
+        <a href="Nuestros productos.html">Nuestros productos</a> |
+        <a href="Nuestros Servicios.html">Nuestros servicios</a> |
+        <a href="Contactanos.html">Contáctanos</a>
+    </nav>
+
+    <section>
+        <table class="content-table">
+            <tr>
+                <td>
+                    <img src="img/foto2.jpg" alt="Biblioteca">
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td colspan="4" style="background-color: #a9a9a9; text-align: center;">
+                                <b>Nuestros servicios <br> disposición  de  servicios</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="img/foto3.jpg" alt="Niña en la biblioteca">
+                            </td>
+                            <td>
+                                Prestamos nuestros servicios de libros a nuestros usuarios; para proveerles un extenzo catalago de información atravez de nuestra biblioteca la cual tiene servicios de prestamos y adquisiciones de libros con informaciones a sus intereses atravez de nuestra biblioteca wed 
+                            </td>
+                            <td>
+                                <img src="img/foto4.jpg" width="100%" alt="Libros">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        Universidad Tecnológica de El Salvador - Todos los derechos reservados grupo 04
+    </footer>
+
+</body>
+
+</html>
